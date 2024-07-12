@@ -13,10 +13,3 @@ class Customer:
         print(f"Customer balance is {self.balance}")
         print(f"Customer citizenship is {self.citizenship}")
 
-# ## For Testing Only
-# c1 = Customer(id="1", name="Bimal Sharma", phone="232323", balance=0, citizenship="1212121")
-# c2 = Customer(id="2", name="Yogesh Bharati", phone="4322", balance=55550, citizenship="121121")
-
-# print(c1.name)
-# print(c2.name)
-
