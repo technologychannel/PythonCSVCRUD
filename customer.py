@@ -13,3 +13,11 @@ class Customer:
         print(f"Customer balance is {self.balance}")
         print(f"Customer citizenship is {self.citizenship}")
 
+
+
+# updated_list = []
+# for cust in lists:
+#     if cust.id != "1":
+#         updated_list.append(cust)
+
+# c.convert_customer_to_csv(updated_list)

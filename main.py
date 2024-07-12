@@ -1,4 +1,3 @@
-from customer import Customer
 import controller as c
 
 option_text = """
@@ -23,5 +22,8 @@ elif option == 4:
     print("Update Customer")
 elif option == 5:
     print("Delete Customer")
+    c.delete_customer()
 else:
     print("Invalid Option Given")
+
+
