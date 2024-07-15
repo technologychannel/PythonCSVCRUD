@@ -7,3 +7,10 @@ This customer management system helps us to
 5. Delete Customer
 
 - Feel free to use and modify the code.
+
+### How to Update
+1. First Search Data is available or 
+2. If available then show data
+3. If not available then show message "Data not found"
+4. If available then ask user to update data
+5. Update data
